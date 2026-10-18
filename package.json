@@ -18,9 +18,9 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "autoprefixer": "^10.4.20",
     "cssnano": "^7.0.6",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^14.3.3",
     "markdown-it-link-attributes": "^4.0.1",
-    "postcss": "^8.4.49",
+    "postcss": "^8.5.30",
     "postcss-import": "^16.1.0",
     "postcss-nested": "^7.0.2"
   }
